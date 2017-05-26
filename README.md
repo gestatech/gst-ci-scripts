@@ -57,6 +57,6 @@ The project has been released under the [MIT License][license].
 
 [issues]: https://github.com/gestatech/gst-ci-scripts/issues
 [license]: http://www.opensource.org/licenses/mit-license.php
-[scm]: http://github.com/gestatetch/gst-ci-scripts
+[scm]: http://github.com/gestatech/gst-ci-scripts
 
 [travis]: https://travis-ci.org/
